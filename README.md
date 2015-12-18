@@ -1,6 +1,7 @@
 AKA
 ===
-<h3>What it does !!</h3>
+What it does !!
+---
 
 AKA is a simple implementation of a shell in C.  It demonstrates the basics of
 how a shell works.  That is: read, parse, fork, exec, and wait.  So I think it's
@@ -12,16 +13,18 @@ pretty cool.  Since it's a simple implementation, it has some limitations.
 * No piping or redirection.
 * Only builtins are: `cd`, `help`, `exit`, `hist`.
 
-<h3>Prerequisite</h3>
+Prerequisite
+---
 
 * Unix/Linux Environment
 * GCC Compiler
 
-<h3>Running the Shell !!</h3>
+Running the Shell !!
+---
 
 1. Compile and execute `AKA-shell/main.c`.
 2. Enter *User: User* and *Password: Password*.
 
 
 <br><br><br>
-**NOTE:** Found any bug??? [REPORT](akash.s1684@gmail.com)
+**NOTE:** Copy this, Use this or Tweak this :)
