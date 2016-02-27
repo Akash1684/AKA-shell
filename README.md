@@ -25,6 +25,10 @@ Running the Shell !!
 1. Compile and execute `AKA-shell/main.c`.
 2. Enter *User: User* and *Password: Password*.
 
+Future Work:
+---
+More than one commands can be executed simultaneously (Ex: `man ls,pwd`) <br>
+(First *manual of ls* will be displayed, followed by *Print Working Directory*)
 
 <br><br><br>
 **NOTE:** Copy this, Use this or Tweak this :)
