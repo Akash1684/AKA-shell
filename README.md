@@ -27,7 +27,7 @@ Running the Shell !!
 
 Future Work:
 ---
-More than one commands can be executed simultaneously (Ex: `man ls,pwd`) <br>
+More than one commands could execute simultaneously (Ex: `man ls,pwd`) <br>
 (First *manual of ls* will be displayed, followed by *Print Working Directory*)
 
 <br><br><br>
